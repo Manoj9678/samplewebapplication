@@ -1,0 +1,7 @@
+ Web Application deployment with DevOps Tools.
+
+Here is a summary of the project.
+
+ I built a simple web application, using Docker and configured the infrastructure with Terraform. 
+ Used Git for version control and moved the application to Azure. 
+ Additionally, I implemented a fully functional DevOps pipeline that allowed us to easily develop, deploy, and manage web applications.
